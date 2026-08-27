@@ -8,7 +8,7 @@
   "server": {
     "ip": "AvengerSMP_.aternos.me",
     "port": 17103,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
